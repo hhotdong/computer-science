@@ -1,0 +1,3 @@
+- https://dataonair.or.kr/db-tech-reference/d-lounge/expert-column/?mod=document&uid=52381
+- https://floating-point-gui.de/
+- https://modulabs.co.kr/blog/fixed-points-and-floating-points-how-computers-understand-numbers/
