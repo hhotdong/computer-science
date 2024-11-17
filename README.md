@@ -1,3 +1,1 @@
-# ComputerScience
-
-- First commit.
+# Computer science
